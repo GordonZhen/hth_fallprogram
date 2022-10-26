@@ -12,4 +12,4 @@ Questions: Main question 1. Who is the top streamer on twitch.
 7 Can you become a top stream for being multilaugaged?
 8 Can followers relate to being a top streamer? 
 9 Is having mature audience relevant to becoming a top streamer?
-10 Does streaming long hours contribute to becominga top stream?
+10 Does streaming long hours contribute to becoming a top stream?
